@@ -10,7 +10,7 @@ Solutions for CodeStudio problems in Java.
 
 ---
 
-##  Topics & Files
+## 📂 Topics & Files
 
 | Topic     | Files |
 |-----------|-------|
