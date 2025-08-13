@@ -21,10 +21,3 @@ Solutions for CodeStudio problems in Java.
 | **Array**    | [reverse-the-array.java](reverse-the-array.java), [rotate-array.java](rotate-array.java), [sort-012.java](sort-012.java) |
 
 ---
-
-##  How to Run
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/anjupriya-v/codestudio-solutions.git
-   cd codestudio-solutions
